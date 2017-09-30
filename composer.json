@@ -1,0 +1,17 @@
+{
+    "name": "ctala/ejemplo-sdk-pago-facil",
+    "description": "Ejemplo de uso del SDK de PHP para Pago Fácil",
+    "type": "project",
+    "require": {
+        "ctala/transaccion-default": "V0.1.12.3",
+        "ctala/http-helper": "^0.2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Tala Sanchez",
+            "email": "yomismo@cristiantala.cl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
